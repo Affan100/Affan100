@@ -4,6 +4,14 @@
 **Affan100/Affan100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<br/>
+
+<a href="https://github.com/Por2505">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Por2505&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Por2505&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
